@@ -25,8 +25,8 @@ Skills: UIKit, SwiftUI
 
 
 <div align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=natenadze)
-</div>
+ 
+  <img src="https://streak-stats.demolab.com/?user=natenadze&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <h3 align="center">📫 Let's Connect!</h3>
 
